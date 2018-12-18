@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body, html {
+ margin:0px;
+	height: 100%;
+	width:100%;
+}
+
+.navbar{
+background-color:grey;	
+width:100%;	
+height:40px;;	
+	
+}
+
+.home{
+	
+	width:auto;
+	height:auto;
+	border:solid;
+	margin-left:2px;
+	border-color:black;
+	float:left;
+	
+}
+
+
+.parallax1 {
+  margin:0px;
+  background-image: url(background1.jpg);
+	
+  height: 100%; 
+	
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+
+	font-size:75px;
+	margin:0px;
+	color:white;
+	
+	
+	
+}
+
+h2{
+	font-size:50px;
+	margin:0px;
+	color:white;
+	
+	
+	
+}
+
+
+h3{	
+	
+	
+	
+	margin:0px;
+	font-size:30px;
+	
+}
